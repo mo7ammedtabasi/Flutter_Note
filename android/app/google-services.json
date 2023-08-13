@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "1047313019802",
+    "firebase_url": "https://flutter-project-2dd3c-default-rtdb.firebaseio.com",
+    "project_id": "flutter-project-2dd3c",
+    "storage_bucket": "flutter-project-2dd3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047313019802:android:eaed5253d572baf6590023",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047313019802-2glnv856oatp1md9i881sfe4bb901kjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCsiQ-V5BCsKPrKHEqfImFl7rGSZSguZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047313019802-2glnv856oatp1md9i881sfe4bb901kjn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1047313019802-4nd7mvnfdl1sbb9g92n4aknhhb0vo6qe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectNote"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047313019802:android:744f7f8ea2d981bd590023",
+        "android_client_info": {
+          "package_name": "com.mo7ammedtabasi.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047313019802-53mvs48tvlv94aqj8ohrffc09qt24fuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mo7ammedtabasi.note",
+            "certificate_hash": "3fb31846e9b55cca2acb4b45bf8fda4de990a01c"
+          }
+        },
+        {
+          "client_id": "1047313019802-2glnv856oatp1md9i881sfe4bb901kjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCsiQ-V5BCsKPrKHEqfImFl7rGSZSguZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047313019802-2glnv856oatp1md9i881sfe4bb901kjn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1047313019802-4nd7mvnfdl1sbb9g92n4aknhhb0vo6qe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectNote"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
